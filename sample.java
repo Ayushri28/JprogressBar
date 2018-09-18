@@ -14,5 +14,6 @@ for(int i=0; i<n; i++)
 }
   
   System.out.println("completed");
+   System.out.println("finished");
 
 }

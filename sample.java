@@ -10,6 +10,9 @@ for(int i=0; i<n; i++)
   System.out.println(i+1);
   System.out.println(str);  
   System.out.println(str);  
+ 
 }
+  
+  System.out.println("completed");
 
 }

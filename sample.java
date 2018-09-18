@@ -16,7 +16,7 @@ for(int i=0; i<n; i++)
   System.out.println("completed");
    System.out.println("finished");
   
-   System.out.println("first");
+   System.out.println("second");
   
-
+   
 }
